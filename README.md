@@ -12,7 +12,6 @@ Platform Engineering Leader at [RLDatix](https://www.rldatix.com), architecting 
 ## 🏗️ What I Build
 
 ### Platform Engineering Ecosystem
-```yaml
 infrastructure:
   kubernetes:
     - Multi-region EKS clusters
